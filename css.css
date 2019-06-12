@@ -75,7 +75,7 @@ a{
 .main{
 	height: 675px;
 	width: 1920px;
-	background-image: url('../imgs/banner.png');
+	background-image: url('image/banner.png');
 }
 .main ul{
 	float: right;
@@ -146,27 +146,27 @@ td{
 	height: 170px;
 }
 .main31{
-	background-image: url('../imgs/img1.png');
+	background-image: url('image/img1.png');
 }
 .main32{
-	background-image: url('../imgs/img2.png');
+	background-image: url('image/img2.png');
 }
 .main33{
-	background-image: url('../imgs/img3.png');
+	background-image: url('image/img3.png');
 }
 .main34{
-	background-image: url('../imgs/img4.png');
+	background-image: url('image/img4.png');
 }
 .main35{
-	background-image: url('../imgs/img5.png');
+	background-image: url('image/img5.png');
 }
 .main36{
-	background-image: url('../imgs/img6.png');
+	background-image: url('image/img6.png');
 }
 .main37{
-	background-image: url('../imgs/img7.png');
+	background-image: url('image/img7.png');
 }.main38{
-	background-image: url('../imgs/img8.png');
+	background-image: url('image/img8.png');
 }
 .nav{
 	width: 1920px;
